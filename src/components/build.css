@@ -1,0 +1,93 @@
+.week{
+    font-size: 50px;
+    font-weight: bold;
+   
+}
+.weekimg{
+    width: 98%;
+    height: 90vh;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+    top: 2vh;
+    background-image: url("https://cdn.muscleandstrength.com/sites/default/files/muscular-guy-doing-cable-flys.jpg");
+    background-size: 100% 100%;
+}
+.descpt{
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    top: 8vh;
+}
+.descpt2{
+    position: relative;
+    top: 10vh;
+}
+.descpt3{
+    position: relative;
+    top: 12vh;
+    font-size: 40px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+.descpt4{
+    position: relative;
+    top: 13vh;
+}
+.descpt5{
+    position: relative;
+    top: 13vh;
+    font-size: 40px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+.descpt6{
+    position: relative;
+    top: 13vh;
+}
+.wrk1{
+    position: relative;
+    top: 14vh;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.tbl1{
+    position: relative;
+    top: 16vh;
+}
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    width: 60%;
+    height: 30vh;
+    margin: auto;
+}
+.head{
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+.wrk2{
+    position: relative;
+    top: 17vh;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.tbl2{
+    position: relative;
+    top: 19vh;
+}
+.wrk3{
+    position: relative;
+    top: 19vh;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.tbl3{
+    position: relative;
+    top: 21vh;
+}

@@ -1,0 +1,149 @@
+.abtnutri{
+    font-size: 40px;
+    font-weight: bold;
+ position: relative;
+ top: 3vh;
+    text-decoration:underline ;
+    color: white;
+   
+}
+.diet{
+    width: 100%;
+    height: 80vh;
+    border: 1px solid black;
+    background-image: url("https://cdn.shopify.com/s/files/1/0021/4302/7249/articles/Heart_Foundation_dietary_advice_WEBSITE_1400x.progressive.png.jpg?v=1591702147");
+    background-size: 100% 100%;
+}
+.nutriback{
+    background-color: black;
+    width: 100%;
+    height: 15vh;
+    /* border: 1px solid white; */
+}
+.protien{
+    width: 100%;
+    height: 40vh;
+    /* border: 1px solid rgb(255, 254, 254); */
+    background-color: black;
+}
+.setpr{
+    width: 100%;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 5vh;
+}
+.prinfo{
+    width: 100%;
+    height: 25vh;
+    /* border: 1px solid white; */
+    color: white;
+    position: relative;
+    top: 5vh;
+    line-height: 50px;
+}
+.carbs{
+    width: 100%;
+    height: 45vh;
+    /* border: 1px solid rgb(255, 254, 254); */
+    background-color: black;
+}
+.setcbr{
+    width: 100%;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 5vh;
+}
+.cbrinfo{
+    width: 100%;
+    height: 30vh;
+    /* border: 1px solid white; */
+    color: white;
+    position: relative;
+    top: 5vh;
+    line-height: 50px;
+}
+.fats{
+    width: 100%;
+    height: 40vh;
+    /* border: 1px solid rgb(255, 254, 254); */
+    background-color: black;   
+}
+.setfat{
+    width: 100%;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 5vh;
+}
+.fatinfo{
+    width: 100%;
+    height: 25vh;
+    /* border: 1px solid white; */
+    color: white;
+    position: relative;
+    top: 5vh;
+    line-height: 50px;
+}
+.pre{
+    width: 100%;
+    height: 40vh;
+    /* border: 1px solid rgb(255, 254, 254); */
+    background-color: black;   
+}
+.abtpre{
+    width: 100%;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 5vh;
+}
+.preinfo{
+    width: 100%;
+    height: 25vh;
+    /* border: 1px solid white; */
+    color: white;
+    position: relative;
+    top: 5vh;
+    line-height: 50px;
+}
+.post{
+    width: 100%;
+    height: 45vh;
+    /* border: 1px solid rgb(255, 254, 254); */
+    background-color: black;  
+}
+.abtpost{
+    width: 100%;
+    height: 10vh;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 5vh;
+}
+.postinfo{
+    width: 100%;
+    height: 30vh;
+    /* border: 1px solid white; */
+    color: white;
+    position: relative;
+    top: 5vh;
+    line-height: 50px;
+}
+.buy{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
